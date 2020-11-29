@@ -4,6 +4,9 @@ This is a log of #100DaysOfCode Challenge. The challenge is to code at least 1 h
 
 ## Round 1
 
+**Day 10: November 27, 2020**
+Simply did some more JavaScript exercises from Codewars. Total WakaTime log: 1 h, 18m.
+
 **Day 9: November 26, 2020**
 I just did a couple of JavaScript exercises today for an hour an account of today being a holiday. WakaTime log: 1 h, 52m
 
