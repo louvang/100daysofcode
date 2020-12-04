@@ -1,11 +1,15 @@
 # #100DaysOfCode
 
-This is a log of #100DaysOfCode Challenge. The challenge is to code at least 1 hour a day. Here's my log for daily coding for the next 100 days. Note: Date format is YYYY-MM-DD.
+This is a log of #100DaysOfCode Challenge. The challenge is to code at least 1 hour a day. Here's my log for daily coding for the next 100 days.
+
+A note about WakaTime logs: [WakaTime](https://wakatime.com/) is a webapp that logs the amount of time I spend typing in VS Code. It does not include the time I spend reading and researching about various webdev concepts.
 
 ## Round 1
 
 | Day | Date       | WakaTime Log | Description                              |
 | --: | ---------- | :----------- | ---------------------------------------- |
+|  15 | 2020/12/03 | 3h, 27m      | Started Calc project, HTML & CSS         |
+|  14 | 2020/12/02 | 1h, 13m      | JS challenges, objects review            |
 |  13 | 2020/12/01 | 3h, 40m      | JS challenges, objects review            |
 |  12 | 2020/11/30 | 3h, 9m       | JS challenges, playground                |
 |  11 | 2020/11/29 | 1h, 0m       | JS challenges                            |
