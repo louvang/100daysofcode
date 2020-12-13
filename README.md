@@ -8,6 +8,7 @@ A note about WakaTime logs: [WakaTime](https://wakatime.com/) is a webapp that l
 
 | Day | Date       | WakaTime Log | Description                              |
 | --: | ---------- | :----------- | ---------------------------------------- |
+|  23 | 2020/12/13 | 3h, 9m       | Reading List, HTML & CSS                 |
 |  22 | 2020/12/12 | 1h, 10m      | Started Reading List project, HTML & CSS |
 |  21 | 2020/12/10 | 2h, 53m      | JS exercises                             |
 |  20 | 2020/12/09 | 2h, 53m      | JS exercises                             |
